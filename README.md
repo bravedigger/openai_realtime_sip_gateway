@@ -44,3 +44,5 @@ $ ./openai_realtime
 $sudo ldconfig
 ```
 
+## Test
+Assume the ubuntu machine is working on IP address 192.168.1.10, open a SIP softphone, and call to "sip:<user@192.168.1.10:5060>", after connection, just speak "hello". The response voice is from OpenAI.
