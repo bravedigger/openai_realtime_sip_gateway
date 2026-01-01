@@ -1,4 +1,4 @@
-# SIP Gateway Connecting OpenAI
+# SIP Gateway Using OpenAI Realtime
 a C++ implementation for a SIP gateway bridging SIP calls to OpenAI Realtime Speech API
 
 ## Environment
